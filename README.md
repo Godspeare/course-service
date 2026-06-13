@@ -46,3 +46,18 @@ course-service/
 │   └── test/                        # Mock MVC & Unit Test Suites
 ├── pom.xml                          # Project Dependencies Config
 └── session_10_Reflection.md        # Session Review Document
+
+
+## 📸 Technical Proof & System Verification
+
+### 1. Unified Project Structure
+A complete view of the decoupled packaging strategy and file placement inside the workspace ecosystem:
+![Project Tree](screenshoots/project%20tree.png)
+
+### 2. Microservice Terminal Verification
+Live output tracking a flawless application context startup initialization and runtime environment spin-up:
+![Successful Boot Log](screenshoots/successful%20boot%20log.%20png.png)
+
+### 3. Session Reflection Breakdown
+An inside look at the structural documentation assessing microservice connectivity workflows:
+![Reflection Document](screenshoots/reflec%20doc.png)
